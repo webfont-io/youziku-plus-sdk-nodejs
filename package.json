@@ -1,0 +1,23 @@
+{
+  "name": "youziku-plus",
+  "version": "1.0.0",
+  "description": "youziku plus sdk nodejs 2018-10-16",
+  "main": "src/index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youziku/youziku-plus-sdk-nodejs.git"
+  },
+  "author": "gaobingbing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/youziku/youziku-plus-sdk-nodejs/issues"
+  },
+  "homepage": "https://github.com/youziku/youziku-plus-sdk-nodejs#readme",
+  "dependencies": {
+    "axios": "*"
+  },
+  "devDependencies": {}
+}
