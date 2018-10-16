@@ -4,7 +4,8 @@
 SDK适用于在Nodejs中调用<a  target="_blank"  href="http://service.youziku.com">service.youziku.com</a>中的反爬虫api<br/>
 
 ## 2.工作流程<br/>　　
-    ①用户用后端程序调用SDK，提交动态内容到有字库的反爬虫服务器 </br>
+
+   ①用户用后端程序调用SDK，提交动态内容到有字库的反爬虫服务器 </br>
    ②服务器接收到所提交内容后，根据内容生成反爬虫策略文件</br>
    ③服务器将所有文件上传至阿里云CDN，并返回@font-face语句和混淆后的内容</br>
    ④内容显示时，只需要显示混淆后的内容即可，@font-face语句会让内容还原成可阅读状态</br>
