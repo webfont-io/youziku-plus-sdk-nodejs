@@ -29,7 +29,7 @@ var youziku =require("youziku-plus");
 var youzikuPlusClient = new youziku.youzikuPlusClient("xxx");//apikey
 ```
 ## 2.调用接口
-### 2.1.处理全部-所有格式
+### 2.1.处理全部文本-所有格式
 ``` node
 
 let json = {
