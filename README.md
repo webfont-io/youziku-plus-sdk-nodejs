@@ -36,7 +36,7 @@ let json = {
     AccessKey: 'xxx',
     Content: '有字库，让中文跃上云端！',
     //标识使用系统生成的随机fontfamily
-    UseRanFontFamily:true,
+    UseRanFontFamily:false,
     Tag: ".class-1",
     Option: {
         //处理数字
@@ -70,7 +70,7 @@ let json = {
     AccessKey: 'xxx',
     Content: '有字库，让中文跃上云端！',
     //标识使用系统生成的随机fontfamily
-    UseRanFontFamily:true,
+    UseRanFontFamily:false,
     Tag: ".class-1",
     Option: {
         //处理数字
@@ -102,7 +102,7 @@ let scopeJson = {
     AccessKey: 'xxx',
     Content: '有字库，让中文跃上云端！',
     //标识使用系统生成的随机fontfamily
-    UseRanFontFamily:true,
+    UseRanFontFamily:false,
     Tag: ".class-1",
     Option: {
         //处理数字
@@ -135,7 +135,7 @@ let scopeJson = {
     AccessKey: 'xxx',
     Content: '有字库，让中文跃上云端！',
     //标识使用系统生成的随机fontfamily
-    UseRanFontFamily:true,
+    UseRanFontFamily:false,
     Tag: ".class-1",
     Option: {
         //处理数字
